@@ -1,0 +1,5 @@
+1. apt-get install php5
+2. apt-get install apache2
+3. apt-get intall php5-mysql
+4. setting virtualhost /etc/apache2/sites-available/000-default.conf rubah 
+5. /etc/init.d/apache2 restart
